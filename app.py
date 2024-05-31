@@ -11,6 +11,8 @@ from math import isnan
 
 # This is a line of modification
 
+# Modification of app.py in B3!!!!!
+
 app = Flask(__name__)
 CORS(app)
 # https://stackoverflow.com/questions/27766794/switching-from-sqlite-to-mysql-with-flask-sqlalchemy

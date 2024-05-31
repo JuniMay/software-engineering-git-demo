@@ -1,7 +1,8 @@
 from flask_sqlalchemy import SQLAlchemy
 
 # This is also a line of modification
-# modify in C4!!!!!
+
+# MERGED FROM B3 TO C4, MERGED MANUALLY.
 
 db = SQLAlchemy()
 

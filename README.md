@@ -2,5 +2,6 @@
 
 Just a Git demo for NKU software engineering course.
 
-THIS IS MODIFIED IN C4 BRANCH.
+THIS IS MERGED FROM B3 TO C4. MERGE RESOLVED MANUALLY.
+
 
